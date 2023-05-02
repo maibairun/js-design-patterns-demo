@@ -1,5 +1,5 @@
 /*
- * :file description: 
+ * :file description: 代理模式
  * :name: \js-design-patterns-demo\proxyPattern.js
  * :author: PakJeon
  * :copyright: (c) 2023, Tungee
